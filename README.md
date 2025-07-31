@@ -26,15 +26,7 @@ This project was developed during a 3-month internship in digital marketing to a
 - **Likes**: 837 likes
 - **Comments**: 1 comment 
 - **Shares**: 199 shares
-- **Saves**: 20 people find it important
-
----
-
-## 💡 Insights & Learnings
-
-- **Top Format**: **Memes** — strong relatability and higher reach.
-- **Most Saved**: **Life lessons and Quotes** — helpful and informative content.
-- **Needs Improvement**: **Educational reels** — lower reach; can be improved with better visuals or shorter length.
+- **Saves**: 20 saves
 
 ---
 
@@ -44,6 +36,14 @@ This project was developed during a 3-month internship in digital marketing to a
 - Keep reels concise and more visually appealing.
 - Use trending sounds and captivating hooks.
 - Regularly evaluate Instagram Insights.
+
+---
+
+## 💡 Insights & Learnings
+
+- **Top Format**: **Memes** — strong relatability and higher reach.
+- **Most Saved**: **Life lessons and Quotes** — helpful and informative content.
+- **Needs Improvement**: **Educational reels** — lower reach; can be improved with better visuals or shorter length.
 
 ---
 
